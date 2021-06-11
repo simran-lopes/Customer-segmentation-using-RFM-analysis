@@ -14,6 +14,7 @@ The objectives of this project is to construct a customer segmentation model bas
 The analysis of customer RFM initiates by grouping customers based on their buying behavior, in terms of How recently did they shop, how often did they shop, and how much monetary value they contributed to the store.
 In RFM Analysis, three parameters are analyzed, each denoted by the letters R, F, and M. To satisfy the need of knowing true customer value, analysis of just one parameter will give an inaccurate report of the customer base, so the customer’s lifetime value can’t be reliable. This is why at least three parameters of customer’s purchase behavior are analyzed; with the freedom to add other analytical parameters too
 It provides a simple intuitive way of calculating each of the three aspects in a simple rating of 1-5, where 1 is the least important and 5 is the most important one. For example, a customer with R=5, F=5, and M=5 is the most profitable and loyal customer, while a customer with R=1, F=1, and M=1 is the least contributing one
+
 ![rfmscore](https://user-images.githubusercontent.com/67309506/121684831-e8ebc400-cac7-11eb-9e3f-36082901dae5.JPG)
 
 # Conclusions 
