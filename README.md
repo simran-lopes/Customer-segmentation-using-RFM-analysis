@@ -1,6 +1,7 @@
 
 # Customer-segmentation-using-RFM-analysis
 link for Dataset 	https://archive.ics.uci.edu/ml/datasets/Online+Retail
+link for visualization using tableau https://public.tableau.com/profile/simran8350#!/?newProfile=&activeTab=0
 # Introduction
 Customer segmentation is crucial for every business to better understand their customers, to keep customers satisfied, and to develop personalized products and services. In this project, we study using data mining techniques to segment customers . 
 
