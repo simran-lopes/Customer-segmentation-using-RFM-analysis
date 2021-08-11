@@ -7,16 +7,6 @@ Created on Mon Mar 22 12:49:41 2021
 #importing necessary libraries
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import matplotlib.pyplot as plt
-plt.style.use("ggplot")
-import sklearn
-from sklearn.decomposition import TruncatedSVD
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.neighbors import NearestNeighbors
-from sklearn.cluster import KMeans
-from sklearn.metrics import adjusted_rand_score
 
 # reading the dataset
 dataset = pd.read_csv('OnlineRetail.csv')
